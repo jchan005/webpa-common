@@ -1,7 +1,4 @@
-// Package canonical provides a simple normalization for device identifiers.  These
-// identifiers have the form {prefix}:{id}/{service}/{ignored}, where only {prefix}
-// and {id} are required.
-package canonical
+package device
 
 import (
 	"errors"
