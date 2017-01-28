@@ -1,5 +1,5 @@
-hash: 219224d508fa3152b70f9c67ddf15eefd23af216a39d5f3432db48104725f8ab
-updated: 2017-01-27T16:50:14.0530951-08:00
+hash: f1d1dd507f08cdfd0dfbe984f1c078efecab3c5e9e75ee9a2347747ba8531323
+updated: 2017-01-27T16:57:54.3635997-08:00
 imports:
 - name: github.com/billhathaway/consistentHash
   version: addea16d2229dba874111898b45be7f4a78af631
@@ -55,7 +55,7 @@ imports:
   - json/scanner
   - json/token
 - name: github.com/ian-kent/go-log
-  version: 5731446c36ab9f716106ce0731f484c50fdf1ad1
+  version: 3562059be162516e088049acad7e3d26427faeaf
   subpackages:
   - appenders
   - layout
